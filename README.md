@@ -8,8 +8,6 @@ Work Experience
 
 Neogene Therapeutics, Inc.
 
-Responsibilities:
-
 •	Developed a Flask-based web application to collect and store clinical experiment data in a PostgreSQL database.
 •	Designed and implemented a user-friendly web form using Flask-WTF, HTML, CSS, and Bootstrap for seamless data entry.
 •	Utilized SQLAlchemy ORM for database interactions, ensuring efficient data storage and retrieval.
@@ -27,8 +25,6 @@ Responsibilities:
 
 
 Vanguard
-
-Responsibilities:
 
 •	Developed an automated financial risk analysis system using Python, PySpark, and Django.
 •	Designed and implemented ETL pipelines to ingest and process real-time market data using PySpark.
@@ -49,8 +45,6 @@ Responsibilities:
 
 Infosys
 
-Responsibilities:
-
 •	Developed data pipelines for customer lead tracking and transaction processing using PySpark & Airflow.
 •	Built machine learning models to predict customer eligibility and spending behavior using Scikit-Learn & XGBoost.
 •	Automated marketing campaigns via SMS & Email using Twilio API, SendGrid & AWS Lambda.
@@ -67,8 +61,6 @@ Responsibilities:
                                                                                                       
 
 Capgemini India
-
-Responsibilities:
 
 •	Developed a web-based claims submission portal using FastAPI (backend) and React.js (frontend) to streamline customer claim entries.
 •	Implemented data validation and preprocessing using Python (pandas, SQLAlchemy) to ensure claim data accuracy and compliance.
