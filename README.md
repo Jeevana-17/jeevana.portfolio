@@ -18,6 +18,7 @@ Computer Science, MS | Saint Leo University, FL
 - Worked with business stakeholders, data scientists, and engineers to design scalable, AI-driven solutions that drive business value.
 
 **Technical Skills**
+
 **Programming Languages:** Python (Core Python, OOP, Data Structures, Collections, NumPy, Pandas, SciPy)
 **Frameworks & Libraries:**	PySpark, Flask, FastAPI, Django, Pandas, NumPy, SciPy, Pytest, Unittest
 **Data Engineering:**	SQL, NoSQL (PostgreSQL,MongoDB), ETL Development, Data Pipelines
