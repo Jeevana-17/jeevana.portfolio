@@ -1,14 +1,17 @@
 # jeevana.portfolio
-#Software Developer / Python Developer
+Software Developer / Python Developer
 
-##Education
+Education
 Computer Science, MS
 
-###Work Experience
-Client:	Neogene Therapeutics, Inc.	                                                                                  May 2024 – Present
-Role:     Data Analytics Engineer
+Work Experience
+
+
+Role: Data Analytics Engineer
+Client:	Neogene Therapeutics, Inc.
 
 Responsibilities:
+
 •	Developed a Flask-based web application to collect and store clinical experiment data in a PostgreSQL database.
 •	Designed and implemented a user-friendly web form using Flask-WTF, HTML, CSS, and Bootstrap for seamless data entry.
 •	Utilized SQLAlchemy ORM for database interactions, ensuring efficient data storage and retrieval.
@@ -24,11 +27,11 @@ Responsibilities:
 •	Enabled seamless data retrieval for future reporting and analytics.
 •	Designed the system to be extensible for AI-based analysis or advanced data visualization in the future.
 
-Client: Vanguard                                                                                                     Sep 2020 – Aug 2022
+
 Role: Python Developer
+Client: Vanguard
 
 Responsibilities:
-Led backend development and data analysis for financial analytics projects
 
 •	Developed an automated financial risk analysis system using Python, PySpark, and Django.
 •	Designed and implemented ETL pipelines to ingest and process real-time market data using PySpark.
@@ -46,9 +49,12 @@ Led backend development and data analysis for financial analytics projects
 •	Ensured compliance with financial regulations and security best practices in data handling and processing.
 •	Conducted performance tuning and debugging to enhance system stability and efficiency.
 
-Client: Infosys                                                                                                      Sep 2018 – Sep 2020
+
 Role: Software Developer
+Client: Infosys
+
 Responsibilities:
+
 •	Developed data pipelines for customer lead tracking and transaction processing using PySpark & Airflow.
 •	Built machine learning models to predict customer eligibility and spending behavior using Scikit-Learn & XGBoost.
 •	Automated marketing campaigns via SMS & Email using Twilio API, SendGrid & AWS Lambda.
@@ -63,8 +69,12 @@ Responsibilities:
 •	Collaborated with marketing, risk, and fraud teams to integrate business logic with data insights.
 •	Ensured data privacy, security, and compliance in handling customer financial records.
                                                                                                       
-Client: Capgemini India                                                                                            July 2014 - Aug 2018  Role:    Software Developer
+
+Role:    Software Developer
+Client: Capgemini India
+
 Responsibilities:
+
 •	Developed a web-based claims submission portal using FastAPI (backend) and React.js (frontend) to streamline customer claim entries.
 •	Implemented data validation and preprocessing using Python (pandas, SQLAlchemy) to ensure claim data accuracy and compliance.
 •	Designed and deployed a machine learning model using Scikit-Learn/XGBoost to detect fraudulent claims in real time.
