@@ -7,8 +7,7 @@ Computer Science, MS
 Work Experience
 
 
-Role: Data Analytics Engineer
-Client:	Neogene Therapeutics, Inc.
+Data Analytics Engineer, Neogene Therapeutics, Inc.
 
 Responsibilities:
 
@@ -28,8 +27,7 @@ Responsibilities:
 •	Designed the system to be extensible for AI-based analysis or advanced data visualization in the future.
 
 
-Role: Python Developer
-Client: Vanguard
+Python Developer, Vanguard
 
 Responsibilities:
 
@@ -50,8 +48,7 @@ Responsibilities:
 •	Conducted performance tuning and debugging to enhance system stability and efficiency.
 
 
-Role: Software Developer
-Client: Infosys
+Software Developer, Infosys
 
 Responsibilities:
 
@@ -70,8 +67,7 @@ Responsibilities:
 •	Ensured data privacy, security, and compliance in handling customer financial records.
                                                                                                       
 
-Role:    Software Developer
-Client: Capgemini India
+Software Developer, Capgemini India
 
 Responsibilities:
 
