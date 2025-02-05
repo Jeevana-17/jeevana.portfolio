@@ -1,6 +1,5 @@
 # jeevana.portfolio
 Software Developer / Python Developer
-#![DDDE8EBB-2E5C-415D-AD07-692313DF9453_1_105_c](DDDE8EBB-2E5C-415D-AD07-692313DF9453_1_105_c.jpeg)
 
 Education
 Computer Science, MS
