@@ -1,6 +1,9 @@
 # jeevana.portfolio
 ## Software Developer / Python Developer
 
+**Email:** jeevanashashiraj@gmail.com   
+**Location:** Tampa, FL 
+
 ## Education
 Computer Science, MS | Saint Leo University, FL
 
