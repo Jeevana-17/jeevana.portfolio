@@ -55,7 +55,7 @@ Computer Science, MS | Saint Leo University, FL
 - Designed the system to be extensible for AI-based analysis or advanced data visualization in the future.
 
 
-**Vanguard**
+**Capgemini**
 
 - Developed an automated financial risk analysis system using Python, PySpark, and Django.
 - Designed and implemented ETL pipelines to ingest and process real-time market data using PySpark.
